@@ -1,5 +1,5 @@
 # zca-js-rmk
-#Đây là phiên bản rmk lại 1 từ zca-js, đã fix và update 1 số tính năng
+#Đây là phiên bản rmk lại từ zca-js, đã fix và update 1 số tính năng
 > Thư viện Zalo API không chính thức dành cho Node.js — gửi/nhận tin nhắn, quản lý nhóm, bạn bè và nhiều tính năng khác qua WebSocket.
 
 ---
